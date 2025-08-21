@@ -9,7 +9,7 @@ Click the ➕ button to increase the count, and ➖ button to decrease it.
 
 Here’s how the game looks:  
 
-![Counting Game Screenshot](8423661.jpg)  
+![Counting Game Screenshot](counting game.png)  
 
 ---
 
